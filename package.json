@@ -1,0 +1,19 @@
+{
+  "name": "ycp-cli-test",
+  "version": "0.0.1",
+  "description": "ycp cli test",
+  "keywords": [],
+  "author": "youcanping <youcanping2008>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ycp/ycp-cli-test.git"
+  },
+  "dependencies": {
+    "ycp-cli-demo": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
